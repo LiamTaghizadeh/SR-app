@@ -138,5 +138,3 @@ root.mainloop()
 - For high-resolution screens, consider reducing resolution for better performance.
 
 ---
-
-This documentation provides an overview and guidance for using and modifying the screen recorder project. Feel free to extend its functionality according to your needs!
